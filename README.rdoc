@@ -1,4 +1,0 @@
-== README
-
-"Peperoni pizza is awesome!"
--Marco
